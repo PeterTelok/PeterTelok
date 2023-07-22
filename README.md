@@ -11,7 +11,7 @@ What fuels my passion for this field is the excitement of exploring uncharted te
 Join me on my GitHub adventure as I showcase my ever-growing portfolio of projects that reflect my dedication to continuous learning and my quest to create meaningful experiences through cutting-edge content design and development. Let's build the future together! 😄🌌
 
 
-### Skills
+## Skills
 
 Skills:  JS / HTML / CSS / Python
 

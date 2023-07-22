@@ -21,5 +21,5 @@ Skills:  JS / HTML / CSS / Python
 
 
 ## Social Media
-![Social Media Icons](index.html)
+![Social Media Icons](icons.html)
 

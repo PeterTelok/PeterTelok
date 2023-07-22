@@ -1,6 +1,7 @@
-### Hi there 👋, Peter Telok
-#### Design and Development
 ![Design and Development](https://github.com/PeterTelok/PeterTelok/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+### Hi there 👋,I'm Peter Telok
+
+#### Design and Development
 
 👋 Hello, I'm Peter, originally from Poland but currently based in the United Kingdom. I'm a dynamic Content Designer and Developer, and an enthusiastic second-year Computer Science student at Greenwich University. 🎓
 

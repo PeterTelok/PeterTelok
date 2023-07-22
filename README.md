@@ -20,18 +20,21 @@ Skills:  JS / HTML / CSS / Python
 - 👯 I’m looking to collaborate on JS and Python projects  
 
 
-<style>
-  .social-icon img {
-    fill: lightblue;
-  }
-</style>
+
 
 ## Social Media
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg){:height="40" style="fill: lightblue;"}](https://github.com/PeterTelok)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg){:height="40" style="fill: lightblue;"}](https://www.linkedin.com/in/piotr-telok-a060a3162/)
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg){:height="40" style="fill: lightblue;"}](https://www.facebook.com/pylos.pl.1)
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg){:height="40" style="fill: lightblue;"}](https://www.instagram.com/pylospl/) ]
-
+<a href="https://github.com/PeterTelok">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" style="height: 40px; filter: invert(77%) sepia(16%) saturate(1711%) hue-rotate(187deg) brightness(93%) contrast(89%);">
+</a>
+<a href="https://www.linkedin.com/in/piotr-telok-a060a3162/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" style="height: 40px; filter: invert(77%) sepia(16%) saturate(1711%) hue-rotate(187deg) brightness(93%) contrast(89%);">
+</a>
+<a href="https://www.facebook.com/pylos.pl.1">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" style="height: 40px; filter: invert(77%) sepia(16%) saturate(1711%) hue-rotate(187deg) brightness(93%) contrast(89%);">
+</a>
+<a href="https://www.instagram.com/pylospl/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" style="height: 40px; filter: invert(77%) sepia(16%) saturate(1711%) hue-rotate(187deg) brightness(93%) contrast(89%);">
+</a>
 
 
 

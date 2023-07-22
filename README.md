@@ -23,5 +23,5 @@ Skills:  JS / HTML / CSS / Python
 ## Social Media
 | GitHub | LinkedIn | Facebook | Instagram |
 | ------ | -------- | -------- | --------- |
-| ![GitHub](icons.html) | ![LinkedIn](icons.html) | ![Facebook](icons.html) | ![Instagram](icons.html) |
+| ![GitHub](https://github.com/PeterTelok/PeterTelok/blob/e9aa1b5d78e4fdee77abca85b6745e6515ce0148/icons.html) | ![LinkedIn](icons.html) | ![Facebook](icons.html) | ![Instagram](icons.html) |
 

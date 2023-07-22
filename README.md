@@ -19,17 +19,6 @@ Skills:  JS / HTML / CSS / Python
 - 🌱 I’m currently learning JS Frameworks Vue & React 
 - 👯 I’m looking to collaborate on JS and Python projects  
 
-<style>
-  .social-icon {
-    display: inline-block;
-    padding-right: 10px; /* Add padding between icons */
-  }
-
-  /* Set the fill color to light blue */
-  .social-icon img {
-    fill: lightblue;
-  }
-</style>
 
 ## Social Media
 <div class="social-icon">
@@ -56,4 +45,16 @@ Skills:  JS / HTML / CSS / Python
   </a>
 </div>
 
+
+<style>
+  .social-icon {
+    display: inline-block;
+    padding-right: 10px; /* Add padding between icons */
+  }
+
+  /* Set the fill color to light blue */
+  .social-icon img {
+    fill: lightblue;
+  }
+</style>
 

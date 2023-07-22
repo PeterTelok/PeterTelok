@@ -30,7 +30,7 @@ Skills:  JS / HTML / CSS / Python
 [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg){:height="40" style="fill: lightblue;"}](https://github.com/PeterTelok)
 [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg){:height="40" style="fill: lightblue;"}](https://www.linkedin.com/in/piotr-telok-a060a3162/)
 [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg){:height="40" style="fill: lightblue;"}](https://www.facebook.com/pylos.pl.1)
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg){:height="40" style="fill: lightblue;"}](https://www.instagram.com/pylospl/)
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg){:height="40" style="fill: lightblue;"}](https://www.instagram.com/pylospl/) ]
 
 
 

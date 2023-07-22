@@ -49,7 +49,7 @@ Join me on my GitHub adventure as I showcase my ever-growing portfolio of projec
 <a href="https://github.com/PeterTelok" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/piotr-telok" target="_blank">
+<a href="https://stackoverflow.com/[users/piotr-telok](https://stackoverflow.com/users/20783494/piotr-telok)" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/Pylos" target="_blank">

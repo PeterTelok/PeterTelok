@@ -4,6 +4,7 @@
   
 
 ## <div align="center">
+
 👋 Hello, I'm Peter, originally from Poland but currently based in the United Kingdom. I'm a dynamic Content Designer and Developer, and an enthusiastic second-year Computer Science student at Greenwich University. 🎓
 
 My journey into the world of technology is anything but typical! With a diverse background in other professions, I bring a unique perspective and problem-solving approach to my projects. 🌟
@@ -21,7 +22,7 @@ Join me on my GitHub adventure as I showcase my ever-growing portfolio of projec
 <br/>  
 
 
-## My Skill Set  
+##  My Skill Set  
 <div style="display: flex; justify-content: center; align-items: center; padding: 20px;">
 
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />&emsp;</a>

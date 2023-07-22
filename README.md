@@ -36,7 +36,7 @@ Join me on my GitHub adventure as I showcase my ever-growing portfolio of projec
 <br/>  
 
 
-## Connect with me  
+##  <div align='center' fontsize='24'>Connect with me  </div>
 <div align="center">
 <a href="https://linkedin.com/in/piotr-telok-a060a3162" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />

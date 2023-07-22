@@ -23,5 +23,5 @@ Skills:  JS / HTML / CSS / Python
 ## Social Media
 | GitHub | LinkedIn | Facebook | Instagram |
 | ------ | -------- | -------- | --------- |
-| ![GitHub](icons.html) | ![LinkedIn](icons.html) | ![Facebook](icons.html) | ![Instagram](icons.html) |
+| ![GitHub]icons.html) | ![LinkedIn](icons.html) | ![Facebook](icons.html) | ![Instagram](icons.html) |
 

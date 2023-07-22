@@ -23,5 +23,5 @@ Skills:  JS / HTML / CSS / Python
 ## Social Media
 | GitHub | LinkedIn | Facebook | Instagram |
 | ------ | -------- | -------- | --------- |
-| ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg) | ![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg) | ![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg) | ![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg) | ![LinkedIn](icons.html) | ![Facebook](icons.html) | ![Instagram](icons.html) |
+| [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="fill: lightblue;">](https://github.com/PeterTelok) | [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" style="fill: lightblue;">](https://www.linkedin.com/in/piotr-telok-a060a3162/) | [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" style="fill: lightblue;">](https://www.facebook.com/pylos.pl.1) | [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40" style="fill: lightblue;">](https://www.instagram.com/pylospl/) | |
 

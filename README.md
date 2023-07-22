@@ -1,5 +1,8 @@
 ![Design and Development](https://github.com/PeterTelok/PeterTelok/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
-### Hi there 👋,I'm Peter Telok
+
+
+### Hi there 👋, I'm Peter Telok
+
 
 #### Design and Development
 
@@ -12,10 +15,16 @@ What fuels my passion for this field is the excitement of exploring uncharted te
 Join me on my GitHub adventure as I showcase my ever-growing portfolio of projects that reflect my dedication to continuous learning and my quest to create meaningful experiences through cutting-edge content design and development. Let's build the future together! 😄🌌
 
 
+### Skills
 
 Skills:  JS / HTML / CSS / Python
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Logistics project 
+- 🌱 I’m currently learning JS Frameworks Vue & React 
+- 👯 I’m looking to collaborate on JS and Python projects  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PeterTelok)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/piotr-telok-a060a3162/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pylos.pl.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pylospl/)  
 
 
 

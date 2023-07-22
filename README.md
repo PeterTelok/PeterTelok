@@ -22,7 +22,7 @@ Join me on my GitHub adventure as I showcase my ever-growing portfolio of projec
 <br/>  
 
 
-##  My Skill Set  
+##  <div align='center' fontsize='24'>My Skill Set  </div>
 <div style="display: flex; justify-content: center; align-items: center; padding: 20px;">
 
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />&emsp;</a>

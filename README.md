@@ -13,7 +13,7 @@ What fuels my passion for this field is the excitement of exploring uncharted te
 
 Join me on my GitHub adventure as I showcase my ever-growing portfolio of projects that reflect my dedication to continuous learning and my quest to create meaningful experiences through cutting-edge content design and development. Let's build the future together! 😄🌌</div>  
   
-## What am I working on right now ?
+##<div align='center'> What am I working on right now ?</div>
 - 🔭 I’m currently working on Logistics project 
 - 🌱 I’m currently learning JS Frameworks Vue & React 
 - 👯 I’m looking to collaborate on JS and Python projects    

@@ -19,9 +19,41 @@ Skills:  JS / HTML / CSS / Python
 - 🌱 I’m currently learning JS Frameworks Vue & React 
 - 👯 I’m looking to collaborate on JS and Python projects  
 
+<style>
+  .social-icon {
+    display: inline-block;
+    padding-right: 10px; /* Add padding between icons */
+  }
+
+  /* Set the fill color to light blue */
+  .social-icon img {
+    fill: lightblue;
+  }
+</style>
+
 ## Social Media
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PeterTelok)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/piotr-telok-a060a3162/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pylos.pl.1)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pylospl/)  
+<div class="social-icon">
+  <a href="https://github.com/PeterTelok">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
+  </a>
+</div>
 
+<div class="social-icon">
+  <a href="https://www.linkedin.com/in/piotr-telok-a060a3162/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
+  </a>
+</div>
 
+<div class="social-icon">
+  <a href="https://www.facebook.com/pylos.pl.1">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40">
+  </a>
+</div>
+
+<div class="social-icon">
+  <a href="https://www.instagram.com/pylospl/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40">
+  </a>
+</div>
 
 

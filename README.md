@@ -5,6 +5,8 @@
 
 ## <div align="center">
 
+<div align='center' fontsize='24'>Who am I ?</div>
+
 👋 Hello, I'm Peter, originally from Poland but currently based in the United Kingdom. I'm a dynamic Content Designer and Developer, and an enthusiastic second-year Computer Science student at Greenwich University. 🎓
 
 My journey into the world of technology is anything but typical! With a diverse background in other professions, I bring a unique perspective and problem-solving approach to my projects. 🌟

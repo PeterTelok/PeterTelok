@@ -20,6 +20,12 @@ Skills:  JS / HTML / CSS / Python
 - 👯 I’m looking to collaborate on JS and Python projects  
 
 
+<style>
+  .social-icon img {
+    fill: lightblue;
+  }
+</style>
+
 ## Social Media
 | GitHub | LinkedIn | Facebook | Instagram |
 | ------ | -------- | -------- | --------- |

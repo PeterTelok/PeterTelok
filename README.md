@@ -1,3 +1,6 @@
+### Hi there 👋, Peter Telok
+#### Design and Development
+![Design and Development](https://github.com/PeterTelok/PeterTelok/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 
 👋 Hello, I'm Peter, originally from Poland but currently based in the United Kingdom. I'm a dynamic Content Designer and Developer, and an enthusiastic second-year Computer Science student at Greenwich University. 🎓
 
@@ -8,4 +11,11 @@ What fuels my passion for this field is the excitement of exploring uncharted te
 Join me on my GitHub adventure as I showcase my ever-growing portfolio of projects that reflect my dedication to continuous learning and my quest to create meaningful experiences through cutting-edge content design and development. Let's build the future together! 😄🌌
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterTelok)](https://github.com/anuraghazra/github-readme-stats)
+
+Skills:  JS / HTML / CSS / Python
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
